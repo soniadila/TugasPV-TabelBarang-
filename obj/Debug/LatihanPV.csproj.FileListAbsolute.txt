@@ -1,0 +1,7 @@
+D:\SONIA\sem 4\PV\LatihanPV\LatihanPV\obj\Debug\LatihanPV.csprojResolveAssemblyReference.cache
+D:\SONIA\sem 4\PV\LatihanPV\LatihanPV\obj\Debug\LatihanPV.MainForm.resources
+D:\SONIA\sem 4\PV\LatihanPV\LatihanPV\obj\Debug\LatihanPV.csproj.GenerateResource.Cache
+D:\SONIA\sem 4\PV\LatihanPV\LatihanPV\bin\Debug\LatihanPV.exe
+D:\SONIA\sem 4\PV\LatihanPV\LatihanPV\bin\Debug\LatihanPV.pdb
+D:\SONIA\sem 4\PV\LatihanPV\LatihanPV\obj\Debug\LatihanPV.exe
+D:\SONIA\sem 4\PV\LatihanPV\LatihanPV\obj\Debug\LatihanPV.pdb
